@@ -1,0 +1,12 @@
+[submodule "SavageX"]
+	path = SavageX
+	url = https://github.com/iamaayushijain/SavageX
+[submodule "savagex-be"]
+	path = savagex-be
+	url = https://github.com/iamaayushijain/SavageX
+[submodule "savage-be"]
+	path = savage-be
+	url = https://github.com/Harshit-RV/savage-be
+[submodule "Eliza"]
+	path = Eliza
+	url = https://github.com/iamaayushijain/Eliza
