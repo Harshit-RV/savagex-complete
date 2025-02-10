@@ -10,3 +10,6 @@
 [submodule "Eliza"]
 	path = Eliza
 	url = https://github.com/iamaayushijain/Eliza
+[submodule "savage_twitter"]
+	path = savage_twitter
+	url = https://github.com/Harshit-RV/savage_twitter
